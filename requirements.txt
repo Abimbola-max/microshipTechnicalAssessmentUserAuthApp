@@ -1,0 +1,7 @@
+Flask
+Flask-JWT-Extended
+pymongo
+marshmallow
+python-dotenv
+flasgger
+gunicorn

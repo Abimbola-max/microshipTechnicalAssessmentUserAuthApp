@@ -1,0 +1,14 @@
+[project]
+name = "userauthentication"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "flasgger>=0.9.7.1",
+    "flask>=3.1.1",
+    "flask-jwt-extended>=4.7.1",
+    "marshmallow>=4.0.0",
+    "pymongo>=4.13.2",
+    "python-dotenv>=1.1.1",
+]
